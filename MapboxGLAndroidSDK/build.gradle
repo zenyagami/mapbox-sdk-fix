@@ -1,5 +1,6 @@
 apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
+apply plugin: 'maven-publish'
 apply from: "${projectDir}/../gradle/dependencies.gradle"
 
 dependencies {
@@ -84,4 +85,17 @@ def static getGitRevision() {
 configurations {
     all*.exclude group: 'commons-logging', module: 'commons-logging'
     all*.exclude group: 'commons-collections', module: 'commons-collections'
+}
+
+afterEvaluate {
+    publishing {
+        publications {
+            release(MavenPublication) {
+                from components.release
+                groupId this.group
+                artifactId 'mapbox-android-sdk'
+                version this.version
+            }
+        }
+    }
 }
