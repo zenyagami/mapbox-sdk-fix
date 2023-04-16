@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res"/><source path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res-public"/><source path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/build/generated/res/rs/debug"/><source path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res"><file path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/values-ru/strings.xml" qualifiers="ru"><string name="mapbox_compassContentDescription">Компас. Активируйте, чтобы развернуть карту на север.</string><string name="mapbox_attributionsIconContentDescription">Значок атрибутов. Активируйте, чтобы показать диалог.</string><string name="mapbox_myLocationViewContentDescription">Местоположение. Отображает вашу позицию на карте.</string><string name="mapbox_mapActionDescription">Отображает карту, созданную при помощи Mapbox. Пролистывайте двумя пальцами. Меняйте масштаб сведением пальцев.</string><string name="mapbox_attributionsDialogTitle">Mapbox Maps SDK для Android</string><string name="mapbox_attributionTelemetryTitle">Сделать карты Mapbox лучше</string><string name="mapbox_attributionTelemetryMessage">Вы помогаете улучшать карты OpenStreetMap и Mapbox, предоставляя обезличенные данные об использовании.</string><string name="mapbox_attributionTelemetryPositive">Согласен</string><string name="mapbox_attributionTelemetryNegative">Не согласен</string><string name="mapbox_attributionTelemetryNeutral">Дополнительная информация</string><string name="mapbox_attributionErrorNoBrowser">На устройстве нет веб-браузера, нельзя показать веб-страницу.</string><string name="mapbox_offline_error_region_definition_invalid">Запрошенный OfflineRegionDefinition не входит в допустимые границы: %s</string><string name="mapbox_telemetrySettings">Настройки телеметрии</string></file><file path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/values-zh-rTW/strings.xml" qualifiers="zh-rTW"><string name="mapbox_compassContentDescription">指南針，点击使地图旋转重置到正北方向。</string><string name="mapbox_attributionsIconContentDescription">Attribution圖標，點擊以顯示attribution對話框。</string><string name="mapbox_myLocationViewContentDescription">定位視圖，在地圖上顯示當前位置。</string><string name="mapbox_mapActionDescription">顯示由Mapbox創建的地圖，通過拖動兩個手指來滾動，捏兩個手指來放大。</string><string name="mapbox_attributionsDialogTitle">Mapbox Maps SDK for Android</string><string name="mapbox_attributionTelemetryTitle">讓Mapbox地圖變得更好</string><string name="mapbox_attributionTelemetryMessage">您的匿名數據幫助OpenStreetMap和Mapbox的地圖變得更好。</string><string name="mapbox_attributionTelemetryPositive">繼續參與</string><string name="mapbox_attributionTelemetryNegative">不再參與</string><string name="mapbox_attributionTelemetryNeutral">更多信息</string><string name="mapbox_attributionErrorNoBrowser">設備中未安裝任何瀏覽器，不能打開該網頁</string><string name="mapbox_offline_error_region_definition_invalid">提供的OfflineRegionDefinition不符合標準地理範圍：%s</string><string name="mapbox_telemetryImproveMap">完善地圖</string><string name="mapbox_telemetrySettings">Telemetry設置</string></file><file path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/values-ca/strings.xml" qualifiers="ca"><string name="mapbox_compassContentDescription">Brúixola del mapa. Activa per restablir la rotació del mapa al Nord.</string><string name="mapbox_attributionsIconContentDescription">Icona d’atribució. Activa per mostrar el diàleg de l’atribució.</string><string name="mapbox_myLocationViewContentDescription">Vista de posició. Mostra la teva posició al mapa.</string><string name="mapbox_mapActionDescription">Mostrant un mapa creat amb Mapbox. Desplaça’t arrossegant amb dos dits. Fes zoom pessigant amb dos dits.</string><string name="mapbox_attributionsDialogTitle">Mapbox Android SDK</string><string name="mapbox_attributionTelemetryTitle">Millora els mapes de Mapbox</string><string name="mapbox_attributionTelemetryMessage">Estàs ajudant a millorar els mapes d’OpenStreetMap i de Mapbox aportant dades d’ús anònimes.</string><string name="mapbox_attributionTelemetryPositive">D’acord</string><string name="mapbox_attributionTelemetryNegative">Disconforme</string><string name="mapbox_attributionTelemetryNeutral">Més informació</string><string name="mapbox_offline_error_region_definition_invalid">La OfflineRegionDefinition proporcionada no encaixa amb els límits del món: %s</string></file><file path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/values-cs/strings.xml" qualifiers="cs"><string name="mapbox_compassContentDescription">Kompas. Nastavit natočení mapy k severu.</string><string name="mapbox_attributionsIconContentDescription">Atributy. Zobrazit nastavení atributů.</string><string name="mapbox_myLocationViewContentDescription">Zobrazení polohy. Zobrazit umístění na mapě.</string><string name="mapbox_mapActionDescription">Zobrazení mapy vytvořené s Mapbox. Posunout tažením dvěma prsty. Změnit velikost roztažením dvou prstů.</string><string name="mapbox_attributionsDialogTitle">Mapbox Maps SDK pro Android</string><string name="mapbox_attributionTelemetryTitle">Udělejte mapy Mapbox lepšími</string><string name="mapbox_attributionTelemetryMessage">Pomozte udělat OpenStreetMap a Mapbox mapy lepšími poskytnutím anonymních dat o využití.</string><string name="mapbox_attributionTelemetryPositive">Souhlasit</string><string name="mapbox_attributionTelemetryNegative">Odmítnout</string><string name="mapbox_attributionTelemetryNeutral">Více informací</string><string name="mapbox_attributionErrorNoBrowser">Na zařízení není nainstalován webový prohlížeč, webovou stránku nelze zobrazit.</string><string name="mapbox_offline_error_region_definition_invalid">Pokud OfflineRegionDefinition neodpovídá hranicím: %s</string><string name="mapbox_telemetryImproveMap">Vylepšit tuto mapu</string><string name="mapbox_telemetrySettings">Nastavení telemetrie</string></file><file path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/values-zh-rCN/strings.xml" qualifiers="zh-rCN"><string name="mapbox_compassContentDescription">指南针，点击使地图旋转重置到正北方向。</string><string name="mapbox_attributionsIconContentDescription">Attribution图标，点击以显示attribution对话框。</string><string name="mapbox_myLocationViewContentDescription">定位视图，在地图上显示当前位置。</string><string name="mapbox_mapActionDescription">显示由Mapbox创建的地图，通过拖动两个手指来滚动，捏两个手指来放大。</string><string name="mapbox_attributionsDialogTitle">Mapbox Maps SDK for Android</string><string name="mapbox_attributionTelemetryTitle">让Mapbox地图变得更好</string><string name="mapbox_attributionTelemetryMessage">您的匿名数据帮助OpenStreetMap和Mapbox的地图变得更好。</string><string name="mapbox_attributionTelemetryPositive">继续参与</string><string name="mapbox_attributionTelemetryNegative">不再参与</string><string name="mapbox_attributionTelemetryNeutral">更多信息</string><string name="mapbox_attributionErrorNoBrowser">设备中未安装任何浏览器，不能打开该网页</string><string name="mapbox_offline_error_region_definition_invalid">提供的OfflineRegionDefinition不符合标准地理范围：%s</string><string name="mapbox_telemetryImproveMap">完善地图</string><string name="mapbox_telemetrySettings">Telemetry设置</string></file><file name="mapbox_user_icon_shadow" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable/mapbox_user_icon_shadow.xml" qualifiers="" type="drawable"/><file name="mapbox_user_stroke_icon" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable/mapbox_user_stroke_icon.xml" qualifiers="" type="drawable"/><file name="mapbox_rounded_corner" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable/mapbox_rounded_corner.xml" qualifiers="" type="drawable"/><file name="mapbox_user_icon_stale" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable/mapbox_user_icon_stale.xml" qualifiers="" type="drawable"/><file name="mapbox_user_icon" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable/mapbox_user_icon.xml" qualifiers="" type="drawable"/><file name="mapbox_user_bearing_icon" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable/mapbox_user_bearing_icon.xml" qualifiers="" type="drawable"/><file name="mapbox_user_puck_icon" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable/mapbox_user_puck_icon.xml" qualifiers="" type="drawable"/><file name="mapbox_info_icon_default" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable/mapbox_info_icon_default.xml" qualifiers="" type="drawable"/><file name="mapbox_mylocation_bg_shape" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable/mapbox_mylocation_bg_shape.xml" qualifiers="" type="drawable"/><file name="mapbox_info_bg_selector" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable/mapbox_info_bg_selector.xml" qualifiers="" type="drawable"/><file name="mapbox_info_icon_selected" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable/mapbox_info_icon_selected.xml" qualifiers="" type="drawable"/><file name="mapbox_popup_window_transparent" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable/mapbox_popup_window_transparent.xml" qualifiers="" type="drawable"/><file name="mapbox_view_image_marker" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/layout/mapbox_view_image_marker.xml" qualifiers="" type="layout"/><file name="mapbox_infowindow_content" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/layout/mapbox_infowindow_content.xml" qualifiers="" type="layout"/><file name="mapbox_attribution_list_item" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/layout/mapbox_attribution_list_item.xml" qualifiers="" type="layout"/><file path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/values-he/strings.xml" qualifiers="he"><string name="mapbox_compassContentDescription">מצפן. הפעל בכדי לקבע את כיוון המפה צפונה.</string><string name="mapbox_attributionsIconContentDescription">סמל שיוך. הפעל כדי להציג תיבת דו-שיח של שיוך.</string><string name="mapbox_myLocationViewContentDescription">סמן מיקום. מציג את המיקום הנוכחי שלך על המפה.</string><string name="mapbox_mapActionDescription">מציג מפה שנוצרה עם Mapbox. גלול באמצעות גרירה עם שתי אצבעות, זום באמצעות צביטה עם שתי אצבעות.</string><string name="mapbox_attributionsDialogTitle">Mapbox Maps SDK for Android</string><string name="mapbox_attributionTelemetryTitle">שפר את המפות של Mapbox </string><string name="mapbox_attributionTelemetryMessage">אתם מסייעים לשפר את המפות של OpenStreetMap ו Mapbox באמצעות שיתוף אנונימי של נתוני השימוש.</string><string name="mapbox_attributionTelemetryPositive">מסכים/מה</string><string name="mapbox_attributionTelemetryNegative">לא מסכים/מה</string><string name="mapbox_attributionTelemetryNeutral">מידע נוסף</string><string name="mapbox_attributionErrorNoBrowser">לא מותקן דפדפן אינטרנט במכשיר, לא ניתן לפתוח את דף האינטרנט.</string><string name="mapbox_offline_error_region_definition_invalid">בתנאי ש- OfflineRegionDefinition אינו מתאים לגבולות העולם: %s</string><string name="mapbox_telemetrySettings">הגדרות טלמטריות</string></file><file path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/values-zh-rHK/strings.xml" qualifiers="zh-rHK"><string name="mapbox_compassContentDescription">指南針，点击使地图旋转重置到正北方向。</string><string name="mapbox_attributionsIconContentDescription">Attribution圖標，點擊以顯示attribution對話框。</string><string name="mapbox_myLocationViewContentDescription">定位視圖，在地圖上顯示當前位置。</string><string name="mapbox_mapActionDescription">顯示由Mapbox創建的地圖，通過拖動兩個手指來滾動，捏兩個手指來放大。</string><string name="mapbox_attributionsDialogTitle">Mapbox Maps SDK for Android</string><string name="mapbox_attributionTelemetryTitle">讓Mapbox地圖變得更好</string><string name="mapbox_attributionTelemetryMessage">您的匿名數據幫助OpenStreetMap和Mapbox的地圖變得更好。</string><string name="mapbox_attributionTelemetryPositive">繼續參與</string><string name="mapbox_attributionTelemetryNegative">不再參與</string><string name="mapbox_attributionTelemetryNeutral">更多信息</string><string name="mapbox_attributionErrorNoBrowser">設備中未安裝任何瀏覽器，不能打開該網頁</string><string name="mapbox_offline_error_region_definition_invalid">提供的OfflineRegionDefinition不符合標準地理範圍：%s</string><string name="mapbox_telemetryImproveMap">完善地圖</string><string name="mapbox_telemetrySettings">Telemetry設置</string></file><file path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/values/colors.xml" qualifiers=""><color name="mapbox_gray_dark">#5F5F5F</color><color name="mapbox_gray">#7D7F80</color><color name="mapbox_blue">#1E8CAB</color><color name="mapbox_location_layer_blue">#4A90E2</color><color name="mapbox_location_layer_gray">#A1B0C0</color></file><file path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/values/dimens.xml" qualifiers=""><dimen name="mapbox_infowindow_tipview_width">8dp</dimen><dimen name="mapbox_infowindow_margin">8dp</dimen><dimen name="mapbox_four_dp">4dp</dimen><dimen name="mapbox_minimum_scale_speed">0.6dp</dimen><dimen name="mapbox_minimum_angled_scale_speed">0.9dp</dimen><dimen name="mapbox_eight_dp">8dp</dimen><dimen name="mapbox_ninety_two_dp">92dp</dimen><dimen name="mapbox_my_locationview_outer_circle">18dp</dimen><dimen name="mapbox_minimum_scale_velocity">225dp</dimen><dimen name="mapbox_minimum_scale_span_when_rotating">75dp</dimen><dimen name="mapbox_minimum_angular_velocity">0.10dp</dimen><dimen name="mapbox_angular_velocity_multiplier">1.3dp</dimen><dimen name="mapbox_density_constant">0.29dp</dimen><dimen name="mapbox_locationComponentTrackingInitialMoveThreshold">25dp</dimen><dimen name="mapbox_locationComponentTrackingMultiFingerMoveThreshold">400dp</dimen></file><file path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/values/styles.xml" qualifiers=""><style name="mapbox_LocationComponent">
+    <item name="mapbox_foregroundDrawable">@drawable/mapbox_user_icon</item>
+    <item name="mapbox_backgroundDrawable">@drawable/mapbox_user_stroke_icon</item>
+    <item name="mapbox_bearingDrawable">@drawable/mapbox_user_bearing_icon</item>
+    <item name="mapbox_gpsDrawable">@drawable/mapbox_user_puck_icon</item>
+
+    <item name="mapbox_foregroundDrawableStale">@drawable/mapbox_user_icon_stale</item>
+    <item name="mapbox_backgroundDrawableStale">@drawable/mapbox_user_stroke_icon</item>
+
+    <item name="mapbox_accuracyAlpha">0.15</item>
+    <item name="mapbox_accuracyColor">@color/mapbox_location_layer_blue</item>
+
+    <item name="mapbox_elevation">12dp</item>
+
+    <item name="mapbox_enableStaleState">true</item>
+    <item name="mapbox_staleStateTimeout">30000</item>
+
+    
+    <item name="mapbox_iconPaddingLeft">0</item>
+    <item name="mapbox_iconPaddingTop">0</item>
+    <item name="mapbox_iconPaddingRight">0</item>
+    <item name="mapbox_iconPaddingBottom">0</item>
+
+    
+    <item name="mapbox_maxZoomIconScale">1</item>
+    <item name="mapbox_minZoomIconScale">0.6</item>
+
+    
+    <item name="mapbox_trackingGesturesManagement">false</item>
+    <item name="mapbox_trackingInitialMoveThreshold">@dimen/mapbox_locationComponentTrackingInitialMoveThreshold</item>
+    <item name="mapbox_trackingMultiFingerMoveThreshold">@dimen/mapbox_locationComponentTrackingMultiFingerMoveThreshold</item>
+
+    
+    <item name="mapbox_pulsingLocationCircleEnabled">false</item>
+    <item name="mapbox_pulsingLocationCircleFadeEnabled">true</item>
+    <item name="mapbox_pulsingLocationCircleColor">@color/mapbox_location_layer_blue</item>
+    <item name="mapbox_pulsingLocationCircleDuration">2300</item>
+    <item name="mapbox_pulsingLocationCircleRadius">35</item>
+    <item name="mapbox_pulsingLocationCircleAlpha">0.4</item>
+    <item name="mapbox_pulsingLocationCircleInterpolator">decelerate</item>
+
+  </style></file><file path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/values/strings.xml" qualifiers=""><string name="mapbox_compassContentDescription">Map compass. Activate to reset the map rotation to North.</string><string name="mapbox_attributionsIconContentDescription">Attribution icon. Activate to show attribution dialog.</string><string name="mapbox_myLocationViewContentDescription">Location View. This shows your location on the map.</string><string name="mapbox_mapActionDescription">Showing a Map created with Mapbox. Scroll by dragging two fingers. Zoom by pinching two fingers.</string><string name="mapbox_attributionsDialogTitle">Mapbox Maps SDK for Android</string><string name="mapbox_attributionTelemetryTitle">Make Mapbox Maps Better</string><string name="mapbox_attributionTelemetryMessage">You are helping to make OpenStreetMap and Mapbox maps better by contributing anonymous usage data.</string><string name="mapbox_attributionTelemetryPositive">Agree</string><string name="mapbox_attributionTelemetryNegative">Disagree</string><string name="mapbox_attributionTelemetryNeutral">More info</string><string name="mapbox_attributionErrorNoBrowser">No web browser installed on device, can\'t open web page.</string><string name="mapbox_offline_error_region_definition_invalid">Provided OfflineRegionDefinition doesn\'t fit the world bounds: %s</string><string name="mapbox_telemetryImproveMap">Improve This Map</string><string name="mapbox_telemetrySettings">Telemetry Settings</string><string name="mapbox_telemetryLink" translatable="false">https://www.mapbox.com/telemetry/</string><string name="mapbox_style_mapbox_streets" translatable="false">mapbox://styles/mapbox/streets-v11</string><string name="mapbox_style_outdoors" translatable="false">mapbox://styles/mapbox/outdoors-v11</string><string name="mapbox_style_light" translatable="false">mapbox://styles/mapbox/light-v10</string><string name="mapbox_style_dark" translatable="false">mapbox://styles/mapbox/dark-v10</string><string name="mapbox_style_satellite" translatable="false">mapbox://styles/mapbox/satellite-v9</string><string name="mapbox_style_satellite_streets" translatable="false">mapbox://styles/mapbox/satellite-streets-v11</string><string name="mapbox_style_traffic_day" translatable="false">mapbox://styles/mapbox/traffic-day-v2</string><string name="mapbox_style_traffic_night" translatable="false">mapbox://styles/mapbox/traffic-night-v2</string></file><file path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/values/attrs.xml" qualifiers=""><declare-styleable name="mapbox_MapView">
+
+        
+        <attr format="string" name="mapbox_apiBaseUrl"/>
+
+        
+        <attr format="string" name="mapbox_apiBaseUri"/>
+        
+        <attr name="mapbox_glyphRasterizationMode">
+            <flag name="no_glyphs_rasterized_locally" value="0"/>
+            <flag name="ideagraphs_rasterized_locally" value="1"/>
+            <flag name="all_glyphs_rasterized_locally" value="2"/>
+        </attr>
+        <attr format="boolean" name="mapbox_localIdeographEnabled"/>
+        <attr format="string" name="mapbox_localIdeographFontFamily"/>
+        <attr format="reference" name="mapbox_localIdeographFontFamilies"/>
+        <attr format="boolean" name="mapbox_cross_source_collisions"/>
+
+        
+        <attr format="float" name="mapbox_cameraTargetLat"/>
+        <attr format="float" name="mapbox_cameraTargetLng"/>
+        <attr format="float" name="mapbox_cameraZoom"/>
+        <attr format="float" name="mapbox_cameraBearing"/>
+        <attr format="float" name="mapbox_cameraTilt"/>
+
+        
+        <attr format="float" name="mapbox_cameraZoomMax"/>
+        <attr format="float" name="mapbox_cameraZoomMin"/>
+
+        
+        <attr format="float" name="mapbox_cameraPitchMax"/>
+        <attr format="float" name="mapbox_cameraPitchMin"/>
+
+        
+        <attr format="boolean" name="mapbox_uiZoomGestures"/>
+        <attr format="boolean" name="mapbox_uiScrollGestures"/>
+        <attr format="boolean" name="mapbox_uiHorizontalScrollGestures"/>
+        <attr format="boolean" name="mapbox_uiRotateGestures"/>
+        <attr format="boolean" name="mapbox_uiTiltGestures"/>
+        <attr format="boolean" name="mapbox_uiDoubleTapGestures"/>
+        <attr format="boolean" name="mapbox_uiQuickZoomGestures"/>
+
+        
+        <attr format="boolean" name="mapbox_uiCompass"/>
+        <attr name="mapbox_uiCompassGravity">
+            <flag name="top" value="0x30"/>
+            <flag name="bottom" value="0x50"/>
+            <flag name="left" value="0x03"/>
+            <flag name="right" value="0x05"/>
+            <flag name="center_vertical" value="0x10"/>
+            <flag name="fill_vertical" value="0x70"/>
+            <flag name="center_horizontal" value="0x01"/>
+            <flag name="fill_horizontal" value="0x07"/>
+            <flag name="center" value="0x11"/>
+            <flag name="fill" value="0x77"/>
+            <flag name="clip_vertical" value="0x80"/>
+            <flag name="clip_horizontal" value="0x08"/>
+            <flag name="start" value="0x00800003"/>
+            <flag name="end" value="0x00800005"/>
+        </attr>
+        <attr format="dimension" name="mapbox_uiCompassMarginLeft"/>
+        <attr format="dimension" name="mapbox_uiCompassMarginTop"/>
+        <attr format="dimension" name="mapbox_uiCompassMarginRight"/>
+        <attr format="dimension" name="mapbox_uiCompassMarginBottom"/>
+        <attr format="boolean" name="mapbox_uiCompassFadeFacingNorth"/>
+        <attr format="reference" name="mapbox_uiCompassDrawable"/>
+        <attr format="integer" name="mapbox_uiCompassDrawableRes"/>
+
+        
+        <attr format="boolean" name="mapbox_uiLogo"/>
+        <attr name="mapbox_uiLogoGravity">
+            <flag name="top" value="0x30"/>
+            <flag name="bottom" value="0x50"/>
+            <flag name="left" value="0x03"/>
+            <flag name="right" value="0x05"/>
+            <flag name="center_vertical" value="0x10"/>
+            <flag name="fill_vertical" value="0x70"/>
+            <flag name="center_horizontal" value="0x01"/>
+            <flag name="fill_horizontal" value="0x07"/>
+            <flag name="center" value="0x11"/>
+            <flag name="fill" value="0x77"/>
+            <flag name="clip_vertical" value="0x80"/>
+            <flag name="clip_horizontal" value="0x08"/>
+            <flag name="start" value="0x00800003"/>
+            <flag name="end" value="0x00800005"/>
+        </attr>
+        <attr format="dimension" name="mapbox_uiLogoMarginLeft"/>
+        <attr format="dimension" name="mapbox_uiLogoMarginTop"/>
+        <attr format="dimension" name="mapbox_uiLogoMarginRight"/>
+        <attr format="dimension" name="mapbox_uiLogoMarginBottom"/>
+
+        
+        <attr format="boolean" name="mapbox_uiAttribution"/>
+        <attr name="mapbox_uiAttributionGravity">
+            <flag name="top" value="0x30"/>
+            <flag name="bottom" value="0x50"/>
+            <flag name="left" value="0x03"/>
+            <flag name="right" value="0x05"/>
+            <flag name="center_vertical" value="0x10"/>
+            <flag name="fill_vertical" value="0x70"/>
+            <flag name="center_horizontal" value="0x01"/>
+            <flag name="fill_horizontal" value="0x07"/>
+            <flag name="center" value="0x11"/>
+            <flag name="fill" value="0x77"/>
+            <flag name="clip_vertical" value="0x80"/>
+            <flag name="clip_horizontal" value="0x08"/>
+            <flag name="start" value="0x00800003"/>
+            <flag name="end" value="0x00800005"/>
+        </attr>
+        <attr format="dimension" name="mapbox_uiAttributionMarginLeft"/>
+        <attr format="dimension" name="mapbox_uiAttributionMarginTop"/>
+        <attr format="dimension" name="mapbox_uiAttributionMarginRight"/>
+        <attr format="dimension" name="mapbox_uiAttributionMarginBottom"/>
+        <attr format="color" name="mapbox_uiAttributionTintColor"/>
+
+        
+        <attr format="boolean" name="mapbox_renderTextureMode"/>
+        <attr format="boolean" name="mapbox_renderTextureTranslucentSurface"/>
+        <attr format="color" name="mapbox_foregroundLoadColor"/>
+
+        <attr format="boolean" name="mapbox_enableTilePrefetch"/>
+        <attr format="integer" name="mapbox_prefetchZoomDelta"/>
+        <attr format="boolean" name="mapbox_enableZMediaOverlay"/>
+        <attr format="float" name="mapbox_pixelRatio"/>
+
+    </declare-styleable><declare-styleable name="mapbox_BubbleLayout">
+        <attr format="dimension|reference" name="mapbox_bl_arrowWidth"/>
+        <attr format="dimension|reference" name="mapbox_bl_cornersRadius"/>
+        <attr format="dimension|reference" name="mapbox_bl_arrowHeight"/>
+        <attr format="dimension|reference" name="mapbox_bl_arrowPosition"/>
+        <attr format="color|reference" name="mapbox_bl_bubbleColor"/>
+        <attr format="dimension|reference" name="mapbox_bl_strokeWidth"/>
+        <attr format="color|reference" name="mapbox_bl_strokeColor"/>
+
+        <attr format="enum" name="mapbox_bl_arrowDirection">
+            <enum name="left" value="0"/>
+            <enum name="right" value="1"/>
+            <enum name="top" value="2"/>
+            <enum name="bottom" value="3"/>
+        </attr>
+    </declare-styleable><declare-styleable name="mapbox_LocationComponent">
+        <attr format="reference" name="mapbox_foregroundDrawable"/>
+        <attr format="color" name="mapbox_foregroundTintColor"/>
+        <attr format="reference" name="mapbox_backgroundDrawable"/>
+        <attr format="color" name="mapbox_backgroundTintColor"/>
+        <attr format="reference" name="mapbox_bearingDrawable"/>
+        <attr format="color" name="mapbox_bearingTintColor"/>
+        <attr format="reference" name="mapbox_gpsDrawable"/>
+
+        <attr format="reference" name="mapbox_foregroundDrawableStale"/>
+        <attr format="color" name="mapbox_foregroundStaleTintColor"/>
+        <attr format="reference" name="mapbox_backgroundDrawableStale"/>
+        <attr format="color" name="mapbox_backgroundStaleTintColor"/>
+
+        <attr format="float" name="mapbox_accuracyAlpha"/>
+        <attr format="color" name="mapbox_accuracyColor"/>
+
+        <attr format="dimension" name="mapbox_elevation"/>
+
+        
+        <attr format="boolean" name="mapbox_enableStaleState"/>
+        <attr format="integer" min="0" name="mapbox_staleStateTimeout"/>
+
+        
+        <attr format="integer" name="mapbox_iconPaddingLeft"/>
+        <attr format="integer" name="mapbox_iconPaddingTop"/>
+        <attr format="integer" name="mapbox_iconPaddingRight"/>
+        <attr format="integer" name="mapbox_iconPaddingBottom"/>
+
+        
+        <attr format="string" name="mapbox_layer_above"/>
+        <attr format="string" name="mapbox_layer_below"/>
+
+        
+        <attr format="float" name="mapbox_maxZoomIconScale"/>
+        <attr format="float" name="mapbox_minZoomIconScale"/>
+
+        
+        <attr format="boolean" name="mapbox_trackingGesturesManagement"/>
+        <attr format="dimension" name="mapbox_trackingInitialMoveThreshold"/>
+        <attr format="dimension" name="mapbox_trackingMultiFingerMoveThreshold"/>
+
+        
+        <attr format="float" name="mapbox_trackingAnimationDurationMultiplier"/>
+
+        
+        <attr format="boolean" name="mapbox_compassAnimationEnabled"/>
+
+        
+        <attr format="boolean" name="mapbox_accuracyAnimationEnabled"/>
+
+        
+        <attr format="boolean" name="mapbox_pulsingLocationCircleEnabled"/>
+        <attr format="boolean" name="mapbox_pulsingLocationCircleFadeEnabled"/>
+        <attr format="color" name="mapbox_pulsingLocationCircleColor"/>
+        <attr format="float" name="mapbox_pulsingLocationCircleDuration"/>
+        <attr format="float" name="mapbox_pulsingLocationCircleRadius"/>
+        <attr format="float" name="mapbox_pulsingLocationCircleAlpha"/>
+        <attr format="string" name="mapbox_pulsingLocationCircleInterpolator"/>
+
+    </declare-styleable></file><file path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/values-pl/strings.xml" qualifiers="pl"><string name="mapbox_compassContentDescription">Kompas. Naciśnij, żeby skierować mapę na północ.</string><string name="mapbox_attributionsIconContentDescription">Atrybucja. Aktywuj, żeby pokazać więcej informacji.</string><string name="mapbox_myLocationViewContentDescription">Widok lokalizacji. Pokazuje twoją pozycję na mapie.</string><string name="mapbox_mapActionDescription">Pokazuje mapę stworzoną za pomocą biblioteki Mapbox. Przesuń mapę za pomocą przeciągnięcia dwoma palcami. Przybliż za pomocą uszczypnięcia dwoma palcami. </string><string name="mapbox_attributionsDialogTitle">Mapbox Maps SDK dla Androida</string><string name="mapbox_attributionTelemetryTitle">Pomoż ulepszyć mapy Mapbox</string><string name="mapbox_attributionTelemetryMessage">Pomagasz ulepszyć mapy OpenStreetMap oraz Mapbox poprzez udostępnianie anonimowych danych użytkowania.</string><string name="mapbox_attributionTelemetryPositive">Zgadzam się</string><string name="mapbox_attributionTelemetryNegative">Nie zgadzam się</string><string name="mapbox_attributionTelemetryNeutral">Więcej informacji</string><string name="mapbox_attributionErrorNoBrowser">Nie potrafię otworzyć strony, brak przeglądarki internetowej zainstalowanej na urządzeniu.</string><string name="mapbox_offline_error_region_definition_invalid">Wymagany region nie mieści się w granicach świata: %s</string><string name="mapbox_telemetryImproveMap">Ulepsz tą mapę</string><string name="mapbox_telemetrySettings">Ustawienia telemetrii</string></file><file path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/values-vi/strings.xml" qualifiers="vi"><string name="mapbox_compassContentDescription">La bàn bản đồ. Kích hoạt để quay bản đồ lại hướng bắc.</string><string name="mapbox_attributionsIconContentDescription">Biểu tượng ghi công. Kích hoạt để xem hộp thoại ghi công.</string><string name="mapbox_myLocationViewContentDescription">Cái chỉ vị trí. Cái này chỉ vị trí của bạn trên bản đồ.</string><string name="mapbox_mapActionDescription">Đang xem bản đồ được xây dựng dùng Mapbox. Kéo hai ngón tay để cuộn. Chụm các ngón tay lại để phóng to. Tách các ngón tay ra để thu nhỏ.</string><string name="mapbox_attributionsDialogTitle">Mapbox Maps SDK cho Android</string><string name="mapbox_attributionTelemetryTitle">Cải tiến các Bản đồ Mapbox</string><string name="mapbox_attributionTelemetryMessage">Bạn đang giúp cải tiến các bản đồ OpenStreetMap và Mapbox bằng cách đóng góp dữ liệu vô danh hóa về cách sử dụng.</string><string name="mapbox_attributionTelemetryPositive">Đồng ý</string><string name="mapbox_attributionTelemetryNegative">Phản đối</string><string name="mapbox_attributionTelemetryNeutral">Thông tin thêm</string><string name="mapbox_attributionErrorNoBrowser">Không thể mở trang Web vì thiết bị thiếu trình duyệt.</string><string name="mapbox_offline_error_region_definition_invalid">OfflineRegionDefinition được cung cấp không vừa thế giới: %s</string><string name="mapbox_telemetryImproveMap">Cải thiện Bản đồ này</string><string name="mapbox_telemetrySettings">Thiết lập Trình viễn trắc</string></file><file path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/values-sv/strings.xml" qualifiers="sv"><string name="mapbox_compassContentDescription">Kompass. Aktivera för att nollställa kartans rotation mot norr.</string><string name="mapbox_attributionsIconContentDescription">Tillskrivningsikon. Aktivera för att visa tillskrivningsdialog.</string><string name="mapbox_myLocationViewContentDescription">Positionsvy. Denna visar din position på kartan.</string><string name="mapbox_mapActionDescription">Visar en karta skapad med Mapbox. Scrolla genom att dra med två fingrar. Zooma genom att nypa med två fingrar.</string><string name="mapbox_attributionsDialogTitle">Mapbox Maps SDK for Android</string><string name="mapbox_attributionTelemetryTitle">Gör Mapbox kartor bättre</string><string name="mapbox_attributionTelemetryMessage">Du hjälper till att göra OpenStreetMap och Mapbox karttjänster bättre genom att bidra med anonymiserad användningsdata.</string><string name="mapbox_attributionTelemetryPositive">Godkänn</string><string name="mapbox_attributionTelemetryNegative">Avböj</string><string name="mapbox_attributionTelemetryNeutral">Visa mer information</string><string name="mapbox_attributionErrorNoBrowser">Ingen webbläsare installerad på enheten. Kan inte visa sidan.</string><string name="mapbox_offline_error_region_definition_invalid">Försedd OfflineRegionDefinition passar inte världens gränser: %s</string><string name="mapbox_telemetrySettings">Telemetri-inställningar</string></file><file name="mapbox_logo_helmet" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable-xhdpi/mapbox_logo_helmet.png" qualifiers="xhdpi-v4" type="drawable"/><file name="mapbox_logo_icon" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable-xhdpi/mapbox_logo_icon.png" qualifiers="xhdpi-v4" type="drawable"/><file name="mapbox_mylocation_icon_default" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable-xhdpi/mapbox_mylocation_icon_default.png" qualifiers="xhdpi-v4" type="drawable"/><file name="mapbox_mylocation_icon_bearing" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable-xhdpi/mapbox_mylocation_icon_bearing.png" qualifiers="xhdpi-v4" type="drawable"/><file name="mapbox_markerview_icon_default" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable-xhdpi/mapbox_markerview_icon_default.png" qualifiers="xhdpi-v4" type="drawable"/><file name="mapbox_compass_icon" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable-xhdpi/mapbox_compass_icon.png" qualifiers="xhdpi-v4" type="drawable"/><file name="mapbox_marker_icon_default" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable-xhdpi/mapbox_marker_icon_default.png" qualifiers="xhdpi-v4" type="drawable"/><file path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/values-pt-rPT/strings.xml" qualifiers="pt-rPT"><string name="mapbox_compassContentDescription">Compasso do mapa. Ativar para virar o mapa para Norte.</string><string name="mapbox_attributionsIconContentDescription">Ícone de atribuição. Ativar para mostrar a janela de atribuição.</string><string name="mapbox_myLocationViewContentDescription">Vista de localização. Isto mostra a sua localização no mapa.</string><string name="mapbox_mapActionDescription">A mostrar um Mapa criado com Mapbox. Desloque arrastanto com 2 dedos. Zoom afastando ou aproximando os 2 dedos.</string><string name="mapbox_attributionsDialogTitle">Mapas Mapbox SDK para Android</string><string name="mapbox_attributionTelemetryTitle">Torne os Mapas Mapbox Melhores</string><string name="mapbox_attributionTelemetryMessage">Está a ajudar a tornar os mapas OpenStreetMap e Mapbox melhores contribuindo com dados de utilização tornados anónimos.</string><string name="mapbox_attributionTelemetryPositive">Concordo</string><string name="mapbox_attributionTelemetryNegative">Não concordo</string><string name="mapbox_attributionTelemetryNeutral">Mais informações</string><string name="mapbox_attributionErrorNoBrowser">Não está nenhum navegador de Internet instalado no dispositivo. Não é possível abrir a página web.</string><string name="mapbox_offline_error_region_definition_invalid">O OfflineRegionDefinition não cabe nos limites do mundo: %s</string><string name="mapbox_telemetrySettings">Definições de Telemetria</string></file><file name="mapbox_logo_helmet" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable-xxhdpi/mapbox_logo_helmet.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="mapbox_logo_icon" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable-xxhdpi/mapbox_logo_icon.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="mapbox_mylocation_icon_default" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable-xxhdpi/mapbox_mylocation_icon_default.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="mapbox_mylocation_icon_bearing" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable-xxhdpi/mapbox_mylocation_icon_bearing.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="mapbox_markerview_icon_default" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable-xxhdpi/mapbox_markerview_icon_default.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="mapbox_compass_icon" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable-xxhdpi/mapbox_compass_icon.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="mapbox_marker_icon_default" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable-xxhdpi/mapbox_marker_icon_default.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="mapbox_logo_helmet" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable-hdpi/mapbox_logo_helmet.png" qualifiers="hdpi-v4" type="drawable"/><file name="mapbox_logo_icon" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable-hdpi/mapbox_logo_icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="mapbox_mylocation_icon_default" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable-hdpi/mapbox_mylocation_icon_default.png" qualifiers="hdpi-v4" type="drawable"/><file name="mapbox_mylocation_icon_bearing" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable-hdpi/mapbox_mylocation_icon_bearing.png" qualifiers="hdpi-v4" type="drawable"/><file name="mapbox_markerview_icon_default" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable-hdpi/mapbox_markerview_icon_default.png" qualifiers="hdpi-v4" type="drawable"/><file name="mapbox_compass_icon" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable-hdpi/mapbox_compass_icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="mapbox_marker_icon_default" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable-hdpi/mapbox_marker_icon_default.png" qualifiers="hdpi-v4" type="drawable"/><file path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/values-lt/strings.xml" qualifiers="lt"><string name="mapbox_compassContentDescription">Žemėlapio kompasas. Spustelk, kad atstatytum žemėlapio pasukimą į šiaurę.</string><string name="mapbox_attributionsIconContentDescription">Įnašo ikona. Paspausk norėdamas pamatyti dialogą su detalėmis</string><string name="mapbox_myLocationViewContentDescription">Vartotojo vietos vaizdas. Nurodo tavo poziciją žemėlapyje</string><string name="mapbox_mapActionDescription">Rodomas Mapbox kurtas žemėlapis. Naviguok tempdamas du pirštus. Valdyk žemėlapio pritraukimą suimdamas/atitolindamas du pirštus.</string><string name="mapbox_attributionsDialogTitle">Mapbox Android SDK</string><string name="mapbox_attributionTelemetryTitle">Prisidėk prie Mapbox žemėlapių tobulinimo</string><string name="mapbox_attributionTelemetryMessage">Jūs padedate padaryti OpenStreetMap ir Mapbox žemėlapius geresniais dalindamiesi anoniminiais naudojimosi duomenimis.</string><string name="mapbox_attributionTelemetryPositive">Sutikti</string><string name="mapbox_attributionTelemetryNegative">Nesutikti</string><string name="mapbox_attributionTelemetryNeutral">Daugiau informacijos</string><string name="mapbox_offline_error_region_definition_invalid">Pasirinktas OfflineRegionDefinition netalpa į rėžius:  %s</string></file><file name="mapbox_logo_helmet" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable-mdpi/mapbox_logo_helmet.png" qualifiers="mdpi-v4" type="drawable"/><file name="mapbox_logo_icon" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable-mdpi/mapbox_logo_icon.png" qualifiers="mdpi-v4" type="drawable"/><file name="mapbox_mylocation_icon_default" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable-mdpi/mapbox_mylocation_icon_default.png" qualifiers="mdpi-v4" type="drawable"/><file name="mapbox_mylocation_icon_bearing" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable-mdpi/mapbox_mylocation_icon_bearing.png" qualifiers="mdpi-v4" type="drawable"/><file name="mapbox_markerview_icon_default" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable-mdpi/mapbox_markerview_icon_default.png" qualifiers="mdpi-v4" type="drawable"/><file name="mapbox_compass_icon" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable-mdpi/mapbox_compass_icon.png" qualifiers="mdpi-v4" type="drawable"/><file name="mapbox_marker_icon_default" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable-mdpi/mapbox_marker_icon_default.png" qualifiers="mdpi-v4" type="drawable"/><file path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/values-iw/strings.xml" qualifiers="iw"><string name="mapbox_compassContentDescription">מצפן. הפעל בכדי לקבע את כיוון המפה צפונה.</string><string name="mapbox_attributionsIconContentDescription">סמל שיוך. הפעל כדי להציג תיבת דו-שיח של שיוך.</string><string name="mapbox_myLocationViewContentDescription">סמן מיקום. מציג את המיקום הנוכחי שלך על המפה.</string><string name="mapbox_mapActionDescription">מציג מפה שנוצרה עם Mapbox. גלול באמצעות גרירה עם שתי אצבעות, זום באמצעות צביטה עם שתי אצבעות.</string><string name="mapbox_attributionsDialogTitle">Mapbox Maps SDK for Android</string><string name="mapbox_attributionTelemetryTitle">שפר את המפות של Mapbox </string><string name="mapbox_attributionTelemetryMessage">אתם מסייעים לשפר את המפות של OpenStreetMap ו Mapbox באמצעות שיתוף אנונימי של נתוני השימוש.</string><string name="mapbox_attributionTelemetryPositive">מסכים/מה</string><string name="mapbox_attributionTelemetryNegative">לא מסכים/מה</string><string name="mapbox_attributionTelemetryNeutral">מידע נוסף</string><string name="mapbox_attributionErrorNoBrowser">לא מותקן דפדפן אינטרנט במכשיר, לא ניתן לפתוח את דף האינטרנט.</string><string name="mapbox_offline_error_region_definition_invalid">בתנאי ש- OfflineRegionDefinition אינו מתאים לגבולות העולם: %s</string><string name="mapbox_telemetrySettings">הגדרות טלמטריות</string></file><file path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/values-fr/strings.xml" qualifiers="fr"><string name="mapbox_compassContentDescription">Boussole. Activer pour rétablir l’orientation de la carte vers le nord.</string><string name="mapbox_attributionsIconContentDescription">Icône d’attribution. Activer pour afficher le dialogue d’attribution.</string><string name="mapbox_myLocationViewContentDescription">Vue de géolocalisation. Ceci affiche votre localisation sur la carte.</string><string name="mapbox_mapActionDescription">Affichage d’une carte créée avec Mapbox. Faites la glisser en traînant deux doigts. Zoomez ou dézoomez en écartant ou rapprochant deux doigts.</string><string name="mapbox_attributionsDialogTitle">SDK Mapbox Maps pour Android</string><string name="mapbox_attributionTelemetryTitle">Faire de meilleures cartes Mapbox</string><string name="mapbox_attributionTelemetryMessage">Vous aidez à améliorer les cartes OpenStreetMap et Mapbox en contribuant des données d\'utilisation anonymes.</string><string name="mapbox_attributionTelemetryPositive">D’accord</string><string name="mapbox_attributionTelemetryNegative">Pas d’accord</string><string name="mapbox_attributionTelemetryNeutral">Plus d’informations</string><string name="mapbox_attributionErrorNoBrowser">Aucun navigateur web installé sur l’appareil, impossible d’ouvrir une page web.</string><string name="mapbox_offline_error_region_definition_invalid">Le cadre OfflineRegionDefinition pour définir la région de navigation ne tient pas dans les limites du monde : %s</string><string name="mapbox_telemetryImproveMap">Améliorer cette carte</string><string name="mapbox_telemetrySettings">Paramètres de télémétrie</string></file><file path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/values-es/strings.xml" qualifiers="es"><string name="mapbox_compassContentDescription">Brújula del mapa. Actívala para restablecer la rotación del mapa al norte.</string><string name="mapbox_attributionsIconContentDescription">Ícono de atribución. Actívalo para mostrar el diálogo de atribución.</string><string name="mapbox_myLocationViewContentDescription">Vista de ubicación. Muestra tu ubicación en el mapa.</string><string name="mapbox_mapActionDescription">Se está mostrando un mapa creado con Mapbox. Arrastra dos dedos para desplazarte o pellizca para acercar.</string><string name="mapbox_attributionsDialogTitle">Mapbox Maps SDK para Android</string><string name="mapbox_attributionTelemetryTitle">Ayúdanos a mejorar los mapas de Mapbox</string><string name="mapbox_attributionTelemetryMessage">Gracias a tu contribución de datos anónimos de uso, ayudas a mejorar OpenStreetMap y Mapbox.</string><string name="mapbox_attributionTelemetryPositive">Aceptar</string><string name="mapbox_attributionTelemetryNegative">Rechazar</string><string name="mapbox_attributionTelemetryNeutral">Más información</string><string name="mapbox_attributionErrorNoBrowser">No puede abrir la página Web porque no hay un navegador Web en el dispositivo.</string><string name="mapbox_offline_error_region_definition_invalid">El parámetro OfflineRegionDefinition que se ingresó no coincide con los límites mundiales: %s</string><string name="mapbox_telemetryImproveMap">Mejorar este mapa</string><string name="mapbox_telemetrySettings">Ajustes de telemetría</string></file><file path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/values-hu/strings.xml" qualifiers="hu"><string name="mapbox_myLocationViewContentDescription">Hely nézet. Megmutatja, hol vagy a térképen.</string><string name="mapbox_mapActionDescription">Egy Mapbox-szal készült térkép megjelenítése. Húzd két ujjadat a görgetéshez. Csippentsd össze a nagyításhoz.</string><string name="mapbox_attributionsDialogTitle">Mapbox Maps SDK Androidhoz</string><string name="mapbox_attributionTelemetryTitle">Tedd jobbá a Mapbox térképeket</string><string name="mapbox_attributionTelemetryMessage">Segítesz az OpenStreetMap és Mapbox térképek jobbá tételében névtelen felhasználási adatok elküldésével.</string><string name="mapbox_attributionTelemetryPositive">Egyetértek</string><string name="mapbox_attributionTelemetryNegative">Nem értek egyet</string><string name="mapbox_attributionTelemetryNeutral">Több infó</string><string name="mapbox_attributionErrorNoBrowser">Nincs webböngésző telepítve a készüléken, nem lehet megnyitni weboldalt.</string><string name="mapbox_offline_error_region_definition_invalid">A megadott OfflineRegionDefinition nem fér bele a világ kereteibe: %s</string><string name="mapbox_telemetryImproveMap">Tedd jobbá ezt a térképet</string><string name="mapbox_telemetrySettings">Telemetria beállítások</string></file><file path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/values-nl/strings.xml" qualifiers="nl"><string name="mapbox_compassContentDescription">Kompas van de map. Activeer om de map rotatie te herzetten naar het noorden.</string><string name="mapbox_attributionsIconContentDescription">Attributie icoon. Activeer voor het tonen van het attributie dialoog. </string><string name="mapbox_myLocationViewContentDescription">Locatie Element. Dit toont jouw locatie op de map.</string><string name="mapbox_mapActionDescription">Toont een map gemaakt met Mapbox. Scroll door het slepen met twee vingers. Zoom door vingers te nijpen.</string><string name="mapbox_attributionsDialogTitle">Mapbox Android SDK</string><string name="mapbox_attributionTelemetryTitle">Maak Mapbox Maps beter</string><string name="mapbox_attributionTelemetryMessage">U helpt OpenStreetMap en Mapbox maps te verbeteren door het  bijdragen van anonieme gebruikersgegevens. </string><string name="mapbox_attributionTelemetryPositive">Toestemmen</string><string name="mapbox_attributionTelemetryNegative">Intrekken</string><string name="mapbox_attributionTelemetryNeutral">Meer informatie</string><string name="mapbox_offline_error_region_definition_invalid">Aangeleverde OfflineRegionDefinition past niet in de wereld omtrek: %s</string></file><file name="mapbox_logo_helmet" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable-xxxhdpi/mapbox_logo_helmet.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="mapbox_logo_icon" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable-xxxhdpi/mapbox_logo_icon.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="mapbox_mylocation_icon_default" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable-xxxhdpi/mapbox_mylocation_icon_default.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="mapbox_mylocation_icon_bearing" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable-xxxhdpi/mapbox_mylocation_icon_bearing.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="mapbox_markerview_icon_default" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable-xxxhdpi/mapbox_markerview_icon_default.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="mapbox_compass_icon" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable-xxxhdpi/mapbox_compass_icon.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="mapbox_marker_icon_default" path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/drawable-xxxhdpi/mapbox_marker_icon_default.png" qualifiers="xxxhdpi-v4" type="drawable"/><file path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/values-bg/strings.xml" qualifiers="bg"><string name="mapbox_compassContentDescription">Компас на картата. Активирай, за да насочиш картата на север.</string><string name="mapbox_attributionsIconContentDescription">Иконка функции. Активирай, за да покажеш диалог функции.</string><string name="mapbox_myLocationViewContentDescription">Изглед локация. Това показва местоположението ти на картата.</string><string name="mapbox_mapActionDescription">Показва карта създадена с Mapbox. Скролни с два пръста. Мащабирай с два пръста.</string><string name="mapbox_attributionsDialogTitle">Mapbox Android SDK</string><string name="mapbox_attributionTelemetryTitle">Направи Mapbox картите по-добри.</string><string name="mapbox_attributionTelemetryMessage">Помагаш OpenStreetMap и Mapbox картите да станат по-добри, като предоставяш анонимни данни за потребление.</string><string name="mapbox_attributionTelemetryPositive">Съгласявам се</string><string name="mapbox_attributionTelemetryNegative">Не се съгласявам</string><string name="mapbox_attributionTelemetryNeutral">Повече инфо</string><string name="mapbox_offline_error_region_definition_invalid">Предоставените OfflineRegionDefinition не пасват в границите на света: %s</string></file><file path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/values-ko/strings.xml" qualifiers="ko"><string name="mapbox_compassContentDescription">지도 나침반. 지도회전를 북쪽으로 재설정합니다.</string><string name="mapbox_attributionsIconContentDescription">속성 정보. 속성 대화를 표시합니다.</string><string name="mapbox_myLocationViewContentDescription">로케이션 뷰. 지도에서 현재 위치를 보여줍니다.</string><string name="mapbox_mapActionDescription">맵박스로 생성된 지도 표시. 두 손가락으로 드래그하여 화면을 위 아래로 움직이세요. 두 손가락을 이용해 화면을 확대 축소 하세요.</string><string name="mapbox_attributionsDialogTitle">안드로이드를 위한 맵박스 맵 SDK</string><string name="mapbox_attributionTelemetryTitle">더 나은 맵박스 지도 만들기</string><string name="mapbox_attributionTelemetryMessage">당신은 익명의 사용 데이터를 제공함으로써, 오픈스트리트맵과 맵박스 향상에 기여하고 있습니다.</string><string name="mapbox_attributionTelemetryPositive">동의</string><string name="mapbox_attributionTelemetryNegative">비동의</string><string name="mapbox_attributionTelemetryNeutral">추가정보</string><string name="mapbox_attributionErrorNoBrowser">웹 브라우저가 설치 되어 있지 않아, 웹 페이지를 열 수 없습니다.</string><string name="mapbox_offline_error_region_definition_invalid">제공된 오프라인지역정의가 월드바운즈에 적합하지 않습니다: %s</string><string name="mapbox_telemetrySettings">원격 측정 설정</string></file><file path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/values-gl/strings.xml" qualifiers="gl"><string name="mapbox_compassContentDescription">Compás do mapa. Actívao para restabelecer a rotación do mapa cara o norte.</string><string name="mapbox_attributionsIconContentDescription">Icona de atribución. Actívaa para amosar o diálogo de atribución.</string><string name="mapbox_myLocationViewContentDescription">Vista de ubicación. Amosa a túa ubicación no mapa.</string><string name="mapbox_mapActionDescription">Estase a amosar un mapa feito co Mapbox. Belisca dous dedos para desprazarte ou belisca para achegar.</string><string name="mapbox_attributionsDialogTitle">Mapbox Maps SDK para o Android</string><string name="mapbox_attributionTelemetryTitle">Axúdanos a mellorar os mapas do Mapbox</string><string name="mapbox_attributionTelemetryMessage">Grazas á túa contribución de datos anónimos de emprego, axudas a mellorar o OpenStreetMap e o Mapbox.</string><string name="mapbox_attributionTelemetryPositive">Dacordo</string><string name="mapbox_attributionTelemetryNegative">Rexeitar</string><string name="mapbox_attributionTelemetryNeutral">Máis información</string><string name="mapbox_attributionErrorNoBrowser">Non podes abrir a páxina web porque non hai un navegador web no dispositivo.</string><string name="mapbox_offline_error_region_definition_invalid">O parámetro OfflineRegionDefinition que se ingresou non coincide cos límites mundiais: %s</string><string name="mapbox_telemetryImproveMap">Mellorar este mapa</string><string name="mapbox_telemetrySettings">Axustes da telemetría</string></file><file path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res/values-uk/strings.xml" qualifiers="uk"><string name="mapbox_compassContentDescription">Компас. Натисніть щоб зорієнтувати мапу на північ.</string><string name="mapbox_attributionsIconContentDescription">Значок атрибуції. Натисніть, щоб показати діалог атрибуції.</string><string name="mapbox_myLocationViewContentDescription">Визначення положення. Показує ваше місцеположення на мапі.</string><string name="mapbox_mapActionDescription">Показує мапи створені за допомоги Mapbox. Пересувайте мапу двома пальцями. Змінюйте масштаб стуляючи/розводячи два пальці.</string><string name="mapbox_attributionsDialogTitle">Mapbox Maps SDK для Android</string><string name="mapbox_attributionTelemetryTitle">Допоможіть зробити мапи Mapbox краще</string><string name="mapbox_attributionTelemetryMessage">Ви допомагаєте робити мапи OpenStreetMap та Mapbox краще пощирюючи анонімні дані про користування мапами.</string><string name="mapbox_attributionTelemetryPositive">Погоджуюсь</string><string name="mapbox_attributionTelemetryNegative">Не погоджуюсь</string><string name="mapbox_attributionTelemetryNeutral">Додаткова інформація</string><string name="mapbox_attributionErrorNoBrowser">Веб-оглядач відсутній на цьому пристрої, неможливо відкрити веб-сторінку</string><string name="mapbox_offline_error_region_definition_invalid">Межі ділянки для оффлайнового користування даними за межами світу: %s</string><string name="mapbox_telemetrySettings">Налаштування телеметрії</string></file></source><source path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res-public"><file path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/res-public/values/public.xml" qualifiers=""><public name="mapbox_AlertDialogStyle" type="style"/><public name="mapbox_apiBaseUrl" type="attr"/><public name="mapbox_apiBaseUri" type="attr"/><public name="mapbox_localIdeographFontFamily" type="attr"/><public format="attr" name="mapbox_glyphRasterizationMode"/><public name="mapbox_cross_source_collisions" type="attr"/><public name="mapbox_pixelRatio" type="float"/><public name="mapbox_cameraTargetLng" type="attr"/><public name="mapbox_cameraTargetLat" type="attr"/><public name="mapbox_cameraZoom" type="attr"/><public name="mapbox_cameraBearing" type="attr"/><public name="mapbox_cameraTilt" type="attr"/><public name="mapbox_cameraZoomMax" type="attr"/><public name="mapbox_cameraZoomMin" type="attr"/><public name="mapbox_cameraPitchMax" type="attr"/><public name="mapbox_cameraPitchMin" type="attr"/><public name="mapbox_uiZoomGestures" type="attr"/><public name="mapbox_uiScrollGestures" type="attr"/><public name="mapbox_uiHorizontalScrollGestures" type="attr"/><public name="mapbox_uiRotateGestures" type="attr"/><public name="mapbox_uiTiltGestures" type="attr"/><public name="mapbox_uiDoubleTapGestures" type="attr"/><public name="mapbox_uiQuickZoomGestures" type="attr"/><public name="mapbox_uiCompass" type="attr"/><public name="mapbox_uiCompassGravity" type="attr"/><public name="mapbox_uiCompassMarginLeft" type="attr"/><public name="mapbox_uiCompassMarginTop" type="attr"/><public name="mapbox_uiCompassMarginRight" type="attr"/><public name="mapbox_uiCompassMarginBottom" type="attr"/><public name="mapbox_uiCompassFadeFacingNorth" type="attr"/><public name="mapbox_uiCompassDrawable" type="attr"/><public name="mapbox_uiCompassDrawableRes" type="attr"/><public name="mapbox_uiLogo" type="attr"/><public name="mapbox_uiLogoGravity" type="attr"/><public name="mapbox_uiLogoMarginLeft" type="attr"/><public name="mapbox_uiLogoMarginTop" type="attr"/><public name="mapbox_uiLogoMarginRight" type="attr"/><public name="mapbox_uiLogoMarginBottom" type="attr"/><public name="mapbox_uiAttribution" type="attr"/><public name="mapbox_uiAttributionGravity" type="attr"/><public name="mapbox_uiAttributionMarginLeft" type="attr"/><public name="mapbox_uiAttributionMarginTop" type="attr"/><public name="mapbox_uiAttributionMarginRight" type="attr"/><public name="mapbox_uiAttributionMarginBottom" type="attr"/><public name="mapbox_uiAttributionTintColor" type="attr"/><public name="mapbox_renderTextureMode" type="attr"/><public name="mapbox_renderTextureTranslucentSurface" type="attr"/><public name="mapbox_foregroundLoadColor" type="attr"/><public name="mapbox_enableTilePrefetch" type="attr"/><public name="mapbox_prefetchZoomDelta" type="attr"/><public name="mapbox_enableZMediaOverlay" type="attr"/><public name="mapbox_logoContentDescription" type="string"/><public name="mapbox_style_mapbox_streets" type="string"/><public name="mapbox_style_outdoors" type="string"/><public name="mapbox_style_light" type="string"/><public name="mapbox_style_dark" type="string"/><public name="mapbox_style_satellite" type="string"/><public name="mapbox_style_satellite_streets" type="string"/><public name="mapbox_style_traffic_day" type="string"/><public name="mapbox_style_traffic_night" type="string"/><public name="mapbox_compassContentDescription" type="string"/><public name="mapbox_attributionsIconContentDescription" type="string"/><public name="mapbox_mapActionDescription" type="string"/><public name="mapbox_attributionsDialogTitle" type="string"/><public name="mapbox_attributionTelemetryTitle" type="string"/><public name="mapbox_attributionTelemetryMessage" type="string"/><public name="mapbox_attributionTelemetryPositive" type="string"/><public name="mapbox_attributionTelemetryNegative" type="string"/><public name="mapbox_attributionTelemetryNeutral" type="string"/><public name="mapbox_telemetrySettings" type="string"/><public name="mapbox_offline_error_region_definition_invalid" type="string"/><public name="mapbox_logo_icon" type="drawable"/><public name="mapbox_compass_icon" type="drawable"/><public name="mapbox_marker_icon_default" type="drawable"/><public name="mapbox_info_bg_selector" type="drawable"/><public name="mapbox_info_icon_default" type="drawable"/><public name="mapbox_info_icon_selected" type="drawable"/><public name="mapbox_blue" type="color"/><public name="mapbox_LocationComponent" type="style"/><public format="reference" name="mapbox_foregroundDrawable" type="attr"/><public format="color" name="mapbox_foregroundTintColor" type="attr"/><public format="reference" name="mapbox_backgroundDrawable" type="attr"/><public format="color" name="mapbox_backgroundTintColor" type="attr"/><public format="reference" name="mapbox_bearingDrawable" type="attr"/><public format="color" name="mapbox_bearingTintColor" type="attr"/><public format="reference" name="mapbox_navigationDrawable" type="attr"/><public format="reference" name="mapbox_foregroundDrawableStale" type="attr"/><public format="color" name="mapbox_foregroundStaleTintColor" type="attr"/><public format="reference" name="mapbox_backgroundDrawableStale" type="attr"/><public format="color" name="mapbox_backgroundStaleTintColor" type="attr"/><public format="float" name="mapbox_accuracyAlpha" type="attr"/><public format="color" name="mapbox_accuracyColor" type="attr"/><public format="dimension" name="mapbox_elevation" type="attr"/><public format="boolean" name="mapbox_enableStaleState" type="attr"/><public format="integer" min="0" name="mapbox_staleStateTimeout" type="attr"/><public format="integer" name="mapbox_iconPaddingLeft" type="attr"/><public format="integer" name="mapbox_iconPaddingTop" type="attr"/><public format="integer" name="mapbox_iconPaddingRight" type="attr"/><public format="integer" name="mapbox_iconPaddingBottom" type="attr"/><public format="float" name="mapbox_maxZoomIconScale" type="attr"/><public format="float" name="mapbox_minZoomIconScale" type="attr"/><public format="float" name="mapbox_trackingInitialMoveThreshold" type="attr"/><public format="float" name="mapbox_trackingMultiFingerMoveThreshold" type="attr"/><public format="boolean" name="mapbox_trackingGesturesManagement" type="attr"/><public format="float" name="mapbox_trackingAnimationDurationMultiplier" type="attr"/><public format="boolean" name="mapbox_compassAnimationEnabled" type="attr"/><public format="boolean" name="mapbox_accuracyAnimationEnabled" type="attr"/><public format="string" name="mapbox_layer_above" type="attr"/><public format="string" name="mapbox_layer_below" type="attr"/><public format="boolean" name="mapbox_pulsingLocationCircleEnabled" type="attr"/><public format="boolean" name="mapbox_pulsingLocationCircleFadeEnabled" type="attr"/><public format="color" name="mapbox_pulsingLocationCircleColor" type="attr"/><public format="float" name="mapbox_pulsingLocationCircleDuration" type="attr"/><public format="float" name="mapbox_pulsingLocationCircleRadius" type="attr"/><public format="float" name="mapbox_pulsingLocationCircleAlpha" type="attr"/><public format="string" name="mapbox_pulsingLocationCircleInterpolator" type="attr"/></file></source><source path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/build/generated/res/rs/debug"/><source path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"/><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"/><mergedItems><configuration qualifiers=""><declare-styleable name="mapbox_MapView">
+
+        
+        <attr format="string" name="mapbox_apiBaseUrl"/>
+
+        
+        <attr format="string" name="mapbox_apiBaseUri"/>
+        
+        <attr name="mapbox_glyphRasterizationMode">
+            <flag name="no_glyphs_rasterized_locally" value="0"/>
+            <flag name="ideagraphs_rasterized_locally" value="1"/>
+            <flag name="all_glyphs_rasterized_locally" value="2"/>
+        </attr>
+        <attr format="boolean" name="mapbox_localIdeographEnabled"/>
+        <attr format="string" name="mapbox_localIdeographFontFamily"/>
+        <attr format="reference" name="mapbox_localIdeographFontFamilies"/>
+        <attr format="boolean" name="mapbox_cross_source_collisions"/>
+
+        
+        <attr format="float" name="mapbox_cameraTargetLat"/>
+        <attr format="float" name="mapbox_cameraTargetLng"/>
+        <attr format="float" name="mapbox_cameraZoom"/>
+        <attr format="float" name="mapbox_cameraBearing"/>
+        <attr format="float" name="mapbox_cameraTilt"/>
+
+        
+        <attr format="float" name="mapbox_cameraZoomMax"/>
+        <attr format="float" name="mapbox_cameraZoomMin"/>
+
+        
+        <attr format="float" name="mapbox_cameraPitchMax"/>
+        <attr format="float" name="mapbox_cameraPitchMin"/>
+
+        
+        <attr format="boolean" name="mapbox_uiZoomGestures"/>
+        <attr format="boolean" name="mapbox_uiScrollGestures"/>
+        <attr format="boolean" name="mapbox_uiHorizontalScrollGestures"/>
+        <attr format="boolean" name="mapbox_uiRotateGestures"/>
+        <attr format="boolean" name="mapbox_uiTiltGestures"/>
+        <attr format="boolean" name="mapbox_uiDoubleTapGestures"/>
+        <attr format="boolean" name="mapbox_uiQuickZoomGestures"/>
+
+        
+        <attr format="boolean" name="mapbox_uiCompass"/>
+        <attr name="mapbox_uiCompassGravity">
+            <flag name="top" value="0x30"/>
+            <flag name="bottom" value="0x50"/>
+            <flag name="left" value="0x03"/>
+            <flag name="right" value="0x05"/>
+            <flag name="center_vertical" value="0x10"/>
+            <flag name="fill_vertical" value="0x70"/>
+            <flag name="center_horizontal" value="0x01"/>
+            <flag name="fill_horizontal" value="0x07"/>
+            <flag name="center" value="0x11"/>
+            <flag name="fill" value="0x77"/>
+            <flag name="clip_vertical" value="0x80"/>
+            <flag name="clip_horizontal" value="0x08"/>
+            <flag name="start" value="0x00800003"/>
+            <flag name="end" value="0x00800005"/>
+        </attr>
+        <attr format="dimension" name="mapbox_uiCompassMarginLeft"/>
+        <attr format="dimension" name="mapbox_uiCompassMarginTop"/>
+        <attr format="dimension" name="mapbox_uiCompassMarginRight"/>
+        <attr format="dimension" name="mapbox_uiCompassMarginBottom"/>
+        <attr format="boolean" name="mapbox_uiCompassFadeFacingNorth"/>
+        <attr format="reference" name="mapbox_uiCompassDrawable"/>
+        <attr format="integer" name="mapbox_uiCompassDrawableRes"/>
+
+        
+        <attr format="boolean" name="mapbox_uiLogo"/>
+        <attr name="mapbox_uiLogoGravity">
+            <flag name="top" value="0x30"/>
+            <flag name="bottom" value="0x50"/>
+            <flag name="left" value="0x03"/>
+            <flag name="right" value="0x05"/>
+            <flag name="center_vertical" value="0x10"/>
+            <flag name="fill_vertical" value="0x70"/>
+            <flag name="center_horizontal" value="0x01"/>
+            <flag name="fill_horizontal" value="0x07"/>
+            <flag name="center" value="0x11"/>
+            <flag name="fill" value="0x77"/>
+            <flag name="clip_vertical" value="0x80"/>
+            <flag name="clip_horizontal" value="0x08"/>
+            <flag name="start" value="0x00800003"/>
+            <flag name="end" value="0x00800005"/>
+        </attr>
+        <attr format="dimension" name="mapbox_uiLogoMarginLeft"/>
+        <attr format="dimension" name="mapbox_uiLogoMarginTop"/>
+        <attr format="dimension" name="mapbox_uiLogoMarginRight"/>
+        <attr format="dimension" name="mapbox_uiLogoMarginBottom"/>
+
+        
+        <attr format="boolean" name="mapbox_uiAttribution"/>
+        <attr name="mapbox_uiAttributionGravity">
+            <flag name="top" value="0x30"/>
+            <flag name="bottom" value="0x50"/>
+            <flag name="left" value="0x03"/>
+            <flag name="right" value="0x05"/>
+            <flag name="center_vertical" value="0x10"/>
+            <flag name="fill_vertical" value="0x70"/>
+            <flag name="center_horizontal" value="0x01"/>
+            <flag name="fill_horizontal" value="0x07"/>
+            <flag name="center" value="0x11"/>
+            <flag name="fill" value="0x77"/>
+            <flag name="clip_vertical" value="0x80"/>
+            <flag name="clip_horizontal" value="0x08"/>
+            <flag name="start" value="0x00800003"/>
+            <flag name="end" value="0x00800005"/>
+        </attr>
+        <attr format="dimension" name="mapbox_uiAttributionMarginLeft"/>
+        <attr format="dimension" name="mapbox_uiAttributionMarginTop"/>
+        <attr format="dimension" name="mapbox_uiAttributionMarginRight"/>
+        <attr format="dimension" name="mapbox_uiAttributionMarginBottom"/>
+        <attr format="color" name="mapbox_uiAttributionTintColor"/>
+
+        
+        <attr format="boolean" name="mapbox_renderTextureMode"/>
+        <attr format="boolean" name="mapbox_renderTextureTranslucentSurface"/>
+        <attr format="color" name="mapbox_foregroundLoadColor"/>
+
+        <attr format="boolean" name="mapbox_enableTilePrefetch"/>
+        <attr format="integer" name="mapbox_prefetchZoomDelta"/>
+        <attr format="boolean" name="mapbox_enableZMediaOverlay"/>
+        <attr format="float" name="mapbox_pixelRatio"/>
+
+    </declare-styleable><declare-styleable name="mapbox_LocationComponent">
+        <attr format="reference" name="mapbox_foregroundDrawable"/>
+        <attr format="color" name="mapbox_foregroundTintColor"/>
+        <attr format="reference" name="mapbox_backgroundDrawable"/>
+        <attr format="color" name="mapbox_backgroundTintColor"/>
+        <attr format="reference" name="mapbox_bearingDrawable"/>
+        <attr format="color" name="mapbox_bearingTintColor"/>
+        <attr format="reference" name="mapbox_gpsDrawable"/>
+
+        <attr format="reference" name="mapbox_foregroundDrawableStale"/>
+        <attr format="color" name="mapbox_foregroundStaleTintColor"/>
+        <attr format="reference" name="mapbox_backgroundDrawableStale"/>
+        <attr format="color" name="mapbox_backgroundStaleTintColor"/>
+
+        <attr format="float" name="mapbox_accuracyAlpha"/>
+        <attr format="color" name="mapbox_accuracyColor"/>
+
+        <attr format="dimension" name="mapbox_elevation"/>
+
+        
+        <attr format="boolean" name="mapbox_enableStaleState"/>
+        <attr format="integer" min="0" name="mapbox_staleStateTimeout"/>
+
+        
+        <attr format="integer" name="mapbox_iconPaddingLeft"/>
+        <attr format="integer" name="mapbox_iconPaddingTop"/>
+        <attr format="integer" name="mapbox_iconPaddingRight"/>
+        <attr format="integer" name="mapbox_iconPaddingBottom"/>
+
+        
+        <attr format="string" name="mapbox_layer_above"/>
+        <attr format="string" name="mapbox_layer_below"/>
+
+        
+        <attr format="float" name="mapbox_maxZoomIconScale"/>
+        <attr format="float" name="mapbox_minZoomIconScale"/>
+
+        
+        <attr format="boolean" name="mapbox_trackingGesturesManagement"/>
+        <attr format="dimension" name="mapbox_trackingInitialMoveThreshold"/>
+        <attr format="dimension" name="mapbox_trackingMultiFingerMoveThreshold"/>
+
+        
+        <attr format="float" name="mapbox_trackingAnimationDurationMultiplier"/>
+
+        
+        <attr format="boolean" name="mapbox_compassAnimationEnabled"/>
+
+        
+        <attr format="boolean" name="mapbox_accuracyAnimationEnabled"/>
+
+        
+        <attr format="boolean" name="mapbox_pulsingLocationCircleEnabled"/>
+        <attr format="boolean" name="mapbox_pulsingLocationCircleFadeEnabled"/>
+        <attr format="color" name="mapbox_pulsingLocationCircleColor"/>
+        <attr format="float" name="mapbox_pulsingLocationCircleDuration"/>
+        <attr format="float" name="mapbox_pulsingLocationCircleRadius"/>
+        <attr format="float" name="mapbox_pulsingLocationCircleAlpha"/>
+        <attr format="string" name="mapbox_pulsingLocationCircleInterpolator"/>
+
+    </declare-styleable><declare-styleable name="mapbox_BubbleLayout">
+        <attr format="dimension|reference" name="mapbox_bl_arrowWidth"/>
+        <attr format="dimension|reference" name="mapbox_bl_cornersRadius"/>
+        <attr format="dimension|reference" name="mapbox_bl_arrowHeight"/>
+        <attr format="dimension|reference" name="mapbox_bl_arrowPosition"/>
+        <attr format="color|reference" name="mapbox_bl_bubbleColor"/>
+        <attr format="dimension|reference" name="mapbox_bl_strokeWidth"/>
+        <attr format="color|reference" name="mapbox_bl_strokeColor"/>
+
+        <attr format="enum" name="mapbox_bl_arrowDirection">
+            <enum name="left" value="0"/>
+            <enum name="right" value="1"/>
+            <enum name="top" value="2"/>
+            <enum name="bottom" value="3"/>
+        </attr>
+    </declare-styleable></configuration></mergedItems></merger>

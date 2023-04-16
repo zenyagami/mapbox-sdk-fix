@@ -1,0 +1,4 @@
+D com/mapbox/mapboxsdk/annotations/ArrowDirection$Value
+D com/mapbox/mapboxsdk/camera/CameraUpdateFactory$ZoomUpdate$Type
+D com/mapbox/mapboxsdk/location/MapboxAnimator$Type
+D com/mapbox/mapboxsdk/maps/CameraChangeDispatcher$CameraChange

@@ -1,0 +1,34 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mapbox.mapboxsdk" >
+4
+5    <uses-sdk android:minSdkVersion="23" />
+5-->/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml
+6
+7    <uses-feature
+7-->/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml:4:5-6:34
+8        android:glEsVersion="0x00020000"
+8-->/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml:5:9-41
+9        android:required="true" />
+9-->/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml:6:9-32
+10    <uses-feature
+10-->/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml:7:5-9:35
+11        android:name="android.hardware.wifi"
+11-->/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml:8:9-45
+12        android:required="false" /> <!-- Implied by ACCESS_WIFI_STATE. -->
+12-->/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml:9:9-33
+13
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml:11:5-66
+14-->/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml:11:22-64
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml:12:5-78
+15-->/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml:12:22-76
+16    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+16-->/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml:13:5-75
+16-->/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml:13:22-73
+17    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+17-->/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml:14:5-79
+17-->/Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml:14:22-76
+18
+19</manifest>

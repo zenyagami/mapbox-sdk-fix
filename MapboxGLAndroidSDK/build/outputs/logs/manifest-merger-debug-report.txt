@@ -1,0 +1,53 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml:1:1-15:12
+	package
+		ADDED from /Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml:2:11-41
+		INJECTED from /Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml
+		INJECTED from /Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml:1:11-69
+uses-feature#0x00020000
+ADDED from /Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml:4:5-6:34
+	android:glEsVersion
+		ADDED from /Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml:5:9-41
+	android:required
+		ADDED from /Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml:6:9-32
+uses-feature#android.hardware.wifi
+ADDED from /Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml:7:5-9:35
+	android:required
+		ADDED from /Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml:9:9-33
+	android:name
+		ADDED from /Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml:8:9-45
+uses-permission#android.permission.INTERNET
+ADDED from /Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from /Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml:12:5-78
+	android:name
+		ADDED from /Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from /Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml:13:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml:14:22-76
+uses-sdk
+INJECTED from /Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml
+INJECTED from /Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml
+INJECTED from /Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml
+INJECTED from /Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml
+		ADDED from /Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml
+		INJECTED from /Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml
+		ADDED from /Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml
+		INJECTED from /Users/javiercorona/Documents/AndroidStudioProjects/ForkedMapboxGlSdk/MapboxGLAndroidSDK/src/main/AndroidManifest.xml
